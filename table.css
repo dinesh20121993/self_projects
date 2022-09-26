@@ -1,0 +1,26 @@
+
+body{
+
+    background-color:aliceblue;
+
+}
+
+h1{ text-align: center;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+table, th, td {
+    color:rgb(14, 17, 8);
+    border: 1px solid;
+}
+th{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width : 100%
+}
